@@ -1,6 +1,6 @@
 # MSA Bootcamp 3 Submission
 
-This app is a public transport booking app, that allows users to book physically distanced seats on trains to ensure safety on public transport, especially during peak travel times. The main aim is to encourage people to feel safe using public transport facilities again and to practice physical distancing at all times, in order to prevent further COVID outbreaks.
+This app is a public transport booking app that allows users to book physically distanced seats on trains to ensure safety on public transport, especially during peak travel times. The main aim is to encourage people to feel safe using public transport facilities again and to practice physical distancing at all times, in order to prevent further COVID outbreaks.
 
 Users will select a train station, a time and any available physically distanced seat through the app. Once they have made a successful booking, they will get a receipt with a QR code (not currently implemented) to display at the station at the time they selected. This will prevent people without a booking from entering the station at peak times, in order to limit the number of people present in a small space and prevent the spread of COVID.
 
